@@ -15,14 +15,14 @@
     "@fullcalendar/interaction": "^6.1.22",
     "@fullcalendar/react": "^7.1.5",
     "@fullcalendar/timegrid": "^6.1.22",
-    "@rolldown/binding-win32-x64-msvc": "^1.3.3",
     "@tailwindcss/vite": "^4.3.5",
     "cytoscape": "^3.35.0",
-    "lightningcss-win32-x64-msvc": "^1.33.0",
+    "lightningcss": "^1.33.0",
     "lucide-react": "^1.76.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "react-router-dom": "^7.18.6",
+    "rolldown": "^1.3.3",
     "tailwindcss": "^4.3.5"
   },
   "devDependencies": {
